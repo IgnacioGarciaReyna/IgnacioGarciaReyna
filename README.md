@@ -3,7 +3,7 @@
 - Here you can see my first proyect: https://ignaciogarciareyna.github.io/PokedexAngular/
 - 
 - 📫 ignaciogarciareyna@live.com
-- LinkedIn: https://www.linkedin.com/in/ignaciogarciareyna/
+- My LinkedIn: https://www.linkedin.com/in/ignaciogarciareyna/
 
 <!---
 IgnacioGarciaReyna/IgnacioGarciaReyna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
