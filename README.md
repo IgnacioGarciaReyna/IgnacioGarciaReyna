@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @IgnacioGarciaReyna.
 - 🌱 I’m currently learning Front End Develompment.
-- Here you can see my first proyect: https://ignaciogarciareyna.github.io/PokedexAngular/
+-
+- You can see my first Angular proyect here: https://ignaciogarciareyna.github.io/PokedexAngular/
+- Now, I'm learning React. So, I have many React project repositories here.
 - 
-- 📫 ignaciogarciareyna@live.com
+- 
 - My LinkedIn: https://www.linkedin.com/in/ignaciogarciareyna/
+-📫 ignaciogarciareyna@live.com
 
 <!---
 IgnacioGarciaReyna/IgnacioGarciaReyna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
