@@ -6,7 +6,7 @@
 - 
 - 
 - My LinkedIn: https://www.linkedin.com/in/ignaciogarciareyna/
--📫 ignaciogarciareyna@live.com
+- 📫 ignaciogarciareyna@live.com
 
 <!---
 IgnacioGarciaReyna/IgnacioGarciaReyna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
