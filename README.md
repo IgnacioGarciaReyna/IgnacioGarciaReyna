@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IgnacioGarciaReyna.
 - 
-- I’m a Front End Developer that studies the Computer Science Bachelor.
+- I’m a Front End Developer that is studying the Computer Science Bachelor.
 - 
 - My favorite language is JavaScript and I've been working with React and Angular.
 -
