@@ -6,7 +6,9 @@
 -
 - 
 - Portfolio: https://ignaciogarciareyna.com/
+- 
 - LinkedIn: https://www.linkedin.com/in/ignaciogarciareyna/
+- 
 - 📫 ignaciogarciareyna@live.com
 
 <!---
