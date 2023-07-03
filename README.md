@@ -1,4 +1,4 @@
-👋 Hi, I’m @IgnacioGarciaReyna.
+Hi, I’m @IgnacioGarciaReyna 👋 
  
 I’m a Front End Developer who is studying the Computer Science Bachelor 💻
  
