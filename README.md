@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @IgnacioGarciaReyna.
-- 
-- I’m a Front End Developer who is studying the Computer Science Bachelor 💻
-- 
-- My principal language is JavaScript and I've been working with React and Angular 👨‍💻
--
-- 
+👋 Hi, I’m @IgnacioGarciaReyna.
+ 
+I’m a Front End Developer who is studying the Computer Science Bachelor 💻
+ 
+My principal language is JavaScript and I've been working with React and Angular 👨‍💻
+
+  
 - Portfolio: https://ignaciogarciareyna.com/ 🧑
 - LinkedIn: https://www.linkedin.com/in/ignaciogarciareyna/ 🖱️
 - ignaciogarciareyna@live.com 📧
